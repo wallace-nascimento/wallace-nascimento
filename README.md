@@ -3,7 +3,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallace-nascimento-3a7421230/)
 
 ![Wallace GitHub stats](https://github-readme-stats.vercel.app/api?username=wallace-nascimento&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-nascimento&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallace-nascimento&layout=compact&langs_count=50)
 
 ## Tecnologias:
 
